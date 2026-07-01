@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/settings.json
+
+# C compiled files
+*.out
+*.exe
+*.o
+*.obj
+*.a
+
+# Temporary files
+*.swp
