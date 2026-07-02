@@ -13,3 +13,6 @@
 
 # Temporary files
 *.swp
+
+# Compiled executables
+*.out
