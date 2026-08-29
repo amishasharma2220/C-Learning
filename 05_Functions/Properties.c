@@ -7,7 +7,7 @@
 void namaste();
 void bonjour();
 int main(){
-    printf)"Enter F for French and I for Indian:");
+    printf("Enter F for French and I for Indian:");
     char choice;
     scanf("%c",&choice);
     if(choice=='F'){
